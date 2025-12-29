@@ -41,7 +41,7 @@
   "bugs": {
     "url": "https://github.com/wc-toolkit/lazy-loader/issues"
   },
-  "homepage": "https://wc-toolkit.com/documentation/lazy-loader",
+  "homepage": "https://wc-toolkit.com/adoption/lazy-loader/",
   "devDependencies": {
     "@changesets/cli": "^2.27.12",
     "@custom-elements-manifest/analyzer": "^0.10.4",
